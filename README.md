@@ -340,6 +340,4 @@ GitHub: https://github.com/LopamudraBasu
 
 <div align="center">
 
-⭐ **If you found this repository useful, please consider giving it a star!**
-
 </div>
