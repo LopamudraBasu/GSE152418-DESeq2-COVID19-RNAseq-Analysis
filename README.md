@@ -323,7 +323,7 @@ The project generates:
 
 **M.Sc. Biotechnology**
 
-Bioinformatics Research Assistant
+ Research Assistant
 
 **Areas of Interest**
 
